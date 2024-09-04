@@ -1,0 +1,28 @@
+header{
+	background-color:  #a95cff;
+	padding: 15px;
+	color: #a8a2af;
+	text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0; 
+}
+
+nav ul li{
+	display: inline;
+	margin-right: 15px; 
+}
+
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+section{
+	padding: 15px;
+	margin-bottom: 15px;
+	background-color: #fff;
+}
